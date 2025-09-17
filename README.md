@@ -1,5 +1,5 @@
 <h1 >Hi there 👋, I'm Chidinma Okwuoha</h1>
-✨I'm a Software Engineer and Technical Writer with a passion for building user-friendly, accessible web applications and crafting clear, developer-focused content. I specialize in Vue.js and Laravel, bringing ideas to life through intuitive interfaces and clean, maintainable code. As a writer, I simplify complex technical concepts into easy-to-understand documentation, tutorials, blog posts, and developer guides that empower users and teams. I believe in growth, resilience, and learning by doing. Whether I'm shipping new features or publishing insightful articles, I'm always seeking ways to improve my craft and make technology more approachable.<br>
+✨I'm a Software Engineer and Technical Writer with a passion for building user-friendly, accessible web applications and crafting clear, developer-focused content. I specialize in React.js, Vue.js and Laravel, bringing ideas to life through intuitive interfaces and clean, maintainable code. As a writer, I simplify complex technical concepts into easy-to-understand documentation, tutorials, blog posts, and developer guides that empower users and teams. I believe in growth, resilience, and learning by doing. Whether I'm shipping new features or publishing insightful articles, I'm always seeking ways to improve my craft and make technology more approachable.<br>
 🧠 I believe in growth, resilience, and constantly learning by doing.
 
 
@@ -29,15 +29,12 @@
 - Write topics on web3
 
 ### 💬 Ask me about:
-- Frontend frameworks (Vue, laravel)
+- Frontend frameworks (Vue, Laravel,React)
 - How I stay creative as a developer
 - Technical writing
 
 ### 💬 Favorite Quote
 If a man is called to be a street sweeper, he should sweep streets even as a Michelangelo painted, or Beethoven composed music or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well.
- ### ⚡ Fun fact:
-My middle name is **Ego Oyibo** ✨  
-I love background radio and podcasts while coding—it keeps my imagination alive 🎧 
 
 ### 📫 How to reach me:
 - 👨‍💻 All of my projects are available at [https://okwuoha-chidinma.netlify.app/](https://okwuoha-chidinma.netlify.app/)
